@@ -17,11 +17,11 @@ efficient-gan implementation by chainer. you can test efficient-gan with mnist d
 
 You can train efficient-gan by selected number as correct value.
 
-    `$ python efficient_gan_train.py correct_number`
+    $ python efficient_gan_train.py correct_number
 
 You can test efficient-gan.
 
-    `$ python efficient_gan_test.py model_file_name`
+    $ python efficient_gan_test.py model_file_name
 
 ## Author
 
