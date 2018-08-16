@@ -21,7 +21,7 @@ You can train efficient-gan by selected number as correct value.
 
 You can test efficient-gan.
 
-    $ python efficient_gan_test.py model_file_name
+    $ python efficient_gan_test.py model_file_epoch
 
 ## Author
 
